@@ -6,7 +6,7 @@ import (
 )
 
 func main()  {
-	strSlice :=[]string{"abcwqwda111","abcdafwad222","abbdf333"}
+	strSlice :=[]int{7,6,5,4,3,1}
 
-	fmt.Println(array.LongestCommonPrefix(strSlice))
+	fmt.Println(array.MaxProfit(strSlice))
 }
