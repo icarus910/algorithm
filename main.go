@@ -6,7 +6,7 @@ import (
 )
 
 func main()  {
-	strSlice :=[]string{"abcwqwda1","abcdafwad2","abbdf233"}
+	strSlice :=[]string{"abcwqwda111","abcdafwad222","abbdf333"}
 
 	fmt.Println(array.LongestCommonPrefix(strSlice))
 }
