@@ -7,6 +7,6 @@ import (
 )
 
 func main()  {
-	array.Rotate([]int{1,2,5,5,4,4},2)
+	array.RemoveDuplicates([]int{1,1,2})
 	//fmt.Println()
 }
