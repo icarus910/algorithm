@@ -2,11 +2,10 @@ package main
 
 import (
 	"algorithm/array"
-	//"fmt"
-
+	"fmt"
 )
 
 func main()  {
-	array.Rotate([]int{1,2,5,5,4,4},2)
-	//fmt.Println()
+
+	fmt.Println(array.PlusOne([]int{8,9,9}))
 }
