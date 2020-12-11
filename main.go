@@ -7,5 +7,5 @@ import (
 
 func main()  {
 
-	fmt.Println(array.PlusOne([]int{8,9,9}))
+	fmt.Println(array.ThreePointer([]int{0,-4,-1,-4,-2,-3,2}))
 }
